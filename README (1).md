@@ -1,7 +1,7 @@
 # IPT1 · Lernsession 03 · GitHub-Flow & Markdown
 
-> **Name:** _Hier eintragen_  
-> **Datum:** _Hier eintragen_
+> **Name:** _Liam Tschuppert_  
+> **Datum:** _17.09.2026_
 
 ## Ziel
 
