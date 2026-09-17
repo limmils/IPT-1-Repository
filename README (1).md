@@ -15,35 +15,35 @@ Ich kann die wichtigsten Begriffe rund um **Git**, **GitHub**, den **GitHub-Flow
 
 ### 1. Was ist Git?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Ein lokales Verteiltes Versionkontroll System für Coding. 
 
 ### 2. Was ist GitHub?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Eine Online Coding Platform, für Grosse oder Kleine Projekte.
 
 ### 3. Was ist der wichtigste Unterschied zwischen Git und GitHub?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Git ist Lokal, Github ist auf dem Web und so den cloud gespeichert.
 
 ### 4. Funktioniert Git auch ohne GitHub?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Ja
 
 ### 5. Was ist ein Repository (Repo)?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Eint Ort an dem mehrere Leute zusammen kommen, oder auch einzeln, um an einem Projekt zu arbeiten und Coding zu machen.
 
 ### 6. Was ist der `main`-Branch?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Wie der Haupteil des Projekts, Er ist das wo am ende gezeigt wird und wo alle Commits schlussendlich hinführen.
 
 ### 7. Was ist Markdown?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Ein Kompliziertes Dokument, in ein einfaches Text Dokument um zu wandlen.
 
 ### 8. Was bedeutet GitHub-Flavoured Markdown (GFM)?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Eine besser, neure Version von Markdown, die mehr zum Tisch bringt.
 
 ---
 
@@ -51,37 +51,37 @@ Ich kann die wichtigsten Begriffe rund um **Git**, **GitHub**, den **GitHub-Flow
 
 ### 9. Bringe die Schritte in die richtige Reihenfolge
 
-`Commit · Issue · Pull Request · Branch`
+`Branch · Commit · Issue · Pull Request`
 
 **Meine Antwort:** DEINE ANTWORT
 
-### 10. Was ist ein Issue?
+### 10. Was ist ein Issue? 
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Eine anfrage für eine Kopie oder Ein Ding das für Probleme suchen da ist.
 
 ### 11. Was ist ein Branch?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** etwas das nicht mehr im "Main" ist, damit man Coding und testen ohne sorgen ausführen kann.
 
 ### 12. Warum arbeitet man für eine Änderung häufig auf einem eigenen Branch?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Damit, falls etwas schieff geht, es nicht an dem Projekt an tut 
 
 ### 13. Was ist ein Commit?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Die Dinger die du geschrieben hast in deinem Branch festzuhalten.
 
 ### 14. Wozu dient eine Commit-Nachricht?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Damit man sieht für was er war und die übersicht behaltet.
 
 ### 15. Was ist ein Pull Request?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Zwei Branches zu einem machen.
 
 ### 16. Was bedeutet Review?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Die Arbeit zu überschauen und nach zu prüfen
 
 ### 17. Was bedeutet Merge?
 
