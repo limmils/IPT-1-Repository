@@ -85,11 +85,11 @@ Ich kann die wichtigsten Begriffe rund um **Git**, **GitHub**, den **GitHub-Flow
 
 ### 17. Was bedeutet Merge?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Zwei branches zu einem.
 
 ### 18. Wann sollte ein Pull Request gemergt werden?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Sobald beide echt sicher sind und keine Probleme.
 
 ---
 
@@ -97,51 +97,51 @@ Ich kann die wichtigsten Begriffe rund um **Git**, **GitHub**, den **GitHub-Flow
 
 ### 19. Was bedeutet Push?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Lokal Zu Online.
 
 ### 20. Was bedeutet Pull?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Lokal zu Online.
 
 ### 21. Was ist der Unterschied zwischen Commit und Push?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Commit speichert die veränderung und Push mach die veränderung online.
 
 ### 22. Was ist der Unterschied zwischen Pull und Pull Request?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Pull macht Remote zu Lokal und Request, fragt den Owner ob man mergen darf.
 
 ### 23. Was bedeutet Clone?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Eine Kopie zu erstellen.
 
 ### 24. Was macht `git status`?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** gibt Infos über den branch
 
 ### 25. Was macht `git add`?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Die Veränderungen werden im Staging Area zu tun.
 
 ### 26. Was ist die Staging Area?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Der Ort zwischen Den veränderte Code und Commiten.
 
 ### 27. Was macht `git log`?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Zeigt die Vergangenheit von Commits.
 
 ### 28. Was bedeutet Branch wechseln?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Branch ändern.
 
 ### 29. Speichert `git add` bereits eine neue Version?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** nein
 
 ### 30. Speichert `git push` deine noch nicht committeten Dateiänderungen?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** nein
 
 ---
 
@@ -149,39 +149,38 @@ Ich kann die wichtigsten Begriffe rund um **Git**, **GitHub**, den **GitHub-Flow
 
 ### 31. Erkläre den GitHub-Flow in einem kurzen Satz.
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Den Ort für den Zusammenarbeit in einem Branch
 
 ### 32. Ordne die Begriffe zu
 
 | Bedeutung | Git-/GitHub-Begriff |
 |---|---|
-| Aufgabe | DEINE ANTWORT |
-| Arbeitszweig | DEINE ANTWORT |
-| Speicherpunkt | DEINE ANTWORT |
-| Änderungsantrag | DEINE ANTWORT |
-| Zusammenführen | DEINE ANTWORT |
-
+| Aufgabe | Task |
+| Arbeitszweig | Branch |
+| Speicherpunkt | Commit |
+| Änderungsantrag | Pull request |
+| Zusammenführen | Merge |
 ### 33. Welche Richtung beschreibt Push?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Lokal zu Online
 
 ### 34. Welche Richtung beschreibt Pull?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Online zu Lokal
 
 ### 35. Warum sind mehrere sinnvolle Commits oft besser als ein einziger riesiger Commit?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Damit man viele Fehler verhindern kann.
 
 ### 36. Nenne ein Beispiel für eine gute Commit-Nachricht.
 
 ```text
-DEINE COMMIT-NACHRICHT
+Verbesserung und Korrektur vom Code, 
 ```
 
 ### 37. Warum ist die Commit-Nachricht `update` wenig hilfreich?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Sagt wenig, kann viel bedeuten.
 
 ---
 
