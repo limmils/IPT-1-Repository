@@ -190,7 +190,7 @@ Verbesserung und Korrektur vom Code,
 
 Ergänze darunter eine Markdown-Überschrift der Ebene 1:
 
-DEINE ANTWORT
+
 
 ### 39. Ungeordnete Liste
 
