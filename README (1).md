@@ -248,11 +248,11 @@ Eine Markdown file zu bearbeiten und eine FIle zu erstelle mit Termen.
 
 ### Meine konkrete Verbesserung aus dem Selbst- oder Peer-Check
 
-DEINE ANTWORT
+Ich kann besser Markdow Files verstehen
 
 ### Mein nächster Portfolio-Schritt
 
-DEINE ANTWORT
+Überschauen
 
 ---
 
@@ -268,16 +268,16 @@ Fülle die zweite Spalte mit einer kurzen deutschen Merkhilfe aus.
 
 | Begriff | Deutsche Merkhilfe |
 |---|---|
-| Issue | DEINE ANTWORT |
-| Branch | DEINE ANTWORT |
-| Commit | DEINE ANTWORT |
-| Push | DEINE ANTWORT |
-| Pull | DEINE ANTWORT |
-| Pull Request | DEINE ANTWORT |
-| Review | DEINE ANTWORT |
-| Merge | DEINE ANTWORT |
-| Clone | DEINE ANTWORT |
-| Repository | DEINE ANTWORT |
+| Issue | Anfrage für Kopie |
+| Branch | Abspaltung für code Testen |
+| Commit | Änderungen machen. |
+| Push | Lokal zu Web |
+| Pull | Web zu Lokal |
+| Pull Request | Anfrage für Mergen |
+| Review | Überschauen |
+| Merge | Zwei Branches zu einemT |
+| Clone | Kopie erstellen |
+| Repository | Ort für Coding |
 
 ---
 
@@ -295,5 +295,5 @@ Fülle die zweite Spalte mit einer kurzen deutschen Merkhilfe aus.
 ## Meine Commit-Nachricht für diese Abgabe
 
 ```text
-DEINE COMMIT-NACHRICHT
+Fertigstellung Aufgabe der README
 ```
