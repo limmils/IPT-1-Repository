@@ -190,45 +190,49 @@ Verbesserung und Korrektur vom Code,
 
 Ergänze darunter eine Markdown-Überschrift der Ebene 1:
 
-
+markdown lernsession `<h1>`
 
 ### 39. Ungeordnete Liste
 
 Erstelle eine Liste mit mindestens drei Begriffen aus dieser Lernsession:
 
-DEINE ANTWORT
+- [ ] Check out the [github blog](https://github.blog/) for topic ideas.
+- [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
+- [ ] Convert my first blog post into an actual webpage.
 
 ### 40. Link
 
 Erstelle einen funktionierenden Markdown-Link zu GitHub oder Microsoft Learn:
 
-DEINE ANTWORT
+Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
 ### 41. Bild
 
 Schreibe die Markdown-Syntax für ein Bild mit Alternativtext:
 
 ```text
-DEINE ANTWORT
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 ```
 
 ### 42. Inline-Code
 
 Schreibe `git status` als Inline-Code in einem sinnvollen Satz:
 
-DEINE ANTWORT
+Bitte überprufe ("gits status") so gleich wie möglich
 
 ### 43. Codeblock
 
 Ergänze mindestens drei Git-Befehle in diesem Codeblock:
 
 ```bash
-# DEINE BEFEHLE
+# git status
+# git help
+# git commit
 ```
 
 ### 44. Was sollte ein gutes Portfolio-README mindestens leisten?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Es soll Zeigen: Wer ich bin, wo ich war, wie gut ich bin und welche qualifikationen ich hab.
 
 ---
 
@@ -236,11 +240,11 @@ Ergänze mindestens drei Git-Befehle in diesem Codeblock:
 
 ### Was habe ich heute über Git und GitHub gelernt?
 
-DEINE ANTWORT
+Was eine Markdown File ist, wie sie bearibeiten, verschieden Kommands und deren unterschied.
 
 ### Was habe ich heute praktisch umgesetzt?
 
-DEINE ANTWORT
+Eine Markdown file zu bearbeiten und eine FIle zu erstelle mit Termen.
 
 ### Meine konkrete Verbesserung aus dem Selbst- oder Peer-Check
 
