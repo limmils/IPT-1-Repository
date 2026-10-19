@@ -14,3 +14,6 @@ Heute war ich Lieder Krank. Wir haben aber Weiter Mit der Lernsession 2 Gemacht 
 
 # 14.09.26:
 An diesem Tag haben wir an den Lernsession 2 weitergearbeitet und 3 angefangen. Wir haben auch wieder das Blitzlicht gemacht und das Digital Clasroom hat endlich funktioniert. Wir haben mit Microsoft Learn gearbeitet um Markdown files kennen zu lernen. Die Markdown Files sind einfache Forme von verschieden Dinger aber meisten Text, in deren man aber auch Bilder, Heading mit verschieden Grössen und vieles anderes haben kann. Es ist die einfachste und beste Text file für simples Github
+
+# 19.10.26:
+Heute haben wir die LS 4 Fertig gemacht und die LS 5 angefangen. im Lernsession 4 geht um viele verschiedenen Dinger wie das EVA Prinzip. Im LS geht es am Anfang um Code Vergleichen. Wir mussten die Abläufe von Scratch Blöcken und C# vergleichen.
