@@ -17,3 +17,6 @@ An diesem Tag haben wir an den Lernsession 2 weitergearbeitet und 3 angefangen. 
 
 # 19.10.26:
 Heute haben wir die LS 4 Fertig gemacht und die LS 5 angefangen. im Lernsession 4 geht um viele verschiedenen Dinger wie das EVA Prinzip. Im LS geht es am Anfang um Code Vergleichen. Wir mussten die Abläufe von Scratch Blöcken und C# vergleichen.
+
+# 02.11.26:
+Heute haben wir viel die Prüfung besprochen und sie Korrigiert. Wir haben die Lernsession 5 weiter gemacht und mussten sie fertig machen. Für 60 Minuten Heute haben wir zusammen die Prüfung korrigiert. In dieser Zeit habe ich gelernt was ich falsch machte beim Eva, Multiple Choice, erste Aufgabe und viele andere Aufgaben.
